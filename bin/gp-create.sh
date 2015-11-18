@@ -1,3 +1,5 @@
+#!/bin/bash -e
+
 # usage ./gp-create.sh Polymer core-item [branch]
 
 # IMPORTANT NOTE:
