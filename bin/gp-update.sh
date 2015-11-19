@@ -1,3 +1,7 @@
+#!/bin/bash -e
+
+# usage ./gp-update.sh iron-icon
+
 repo=$1
 
 pushd $repo >/dev/null
