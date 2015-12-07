@@ -33,7 +33,7 @@ bower install --save GoogleWebComponents/google-web-components
 bower install --save $org/$repo#$branch
 
 # redirect by default to the component folder
-echo "<META http-equiv="refresh" content=\"0;URL=bower_components/$repo/\">" >index.html
+echo "<META http-equiv="refresh" content=\"0;URL=components/$repo/\">" >index.html
 
 # send it all to github
 git add -A .
