@@ -30,6 +30,8 @@ bower install --save PolymerElements/iron-elements
 bower install --save PolymerElements/neon-elements
 bower install --save PolymerElements/gold-elements
 bower install --save GoogleWebComponents/google-web-components
+bower install --save David-Mulder/paper-color-input
+bower install --save David-Mulder/paper-datatable
 bower install --save $org/$repo#$branch
 
 # redirect by default to the component folder
